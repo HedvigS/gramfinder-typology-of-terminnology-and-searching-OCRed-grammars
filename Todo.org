@@ -1,0 +1,39 @@
+* Org stuff
+  We're separating this project into "helping Grambank coders" vs. typology-of-terminology. The projects will have different repos, but cross-pollinate.
+  We'll be using Github for code, Google Drive for docs and spreadsheets, and USB sticks for sharing OCRed grammars.
+
+** TODO HS & SK: Check whether what we most recently copied from Harald has the latest text files.
+
+* Helping Grambank coders
+
+We should start simple, with stuff that coders can immediately use.
+
+** Have a web interface for doing arbitrary full-text searches on OCRed grammars (for a given language)
+   How is this different from just doing Cmd-F in an OCRed PDF?
+   - Allows you to search simultaneously across multiple sources.
+   - Also, have a bar (like in Google Books search, but horizontal) that lets you see where exactly in the grammar the term occurs.
+*** TODO For the bar: Chunk every OCRed PDF into pages
+    1. Explode the PDF into individual pages (ImageMagick?)
+    2. Extract text from each page
+    3. Concatenate, with an unambiguous delimiter.
+
+** Do precompiled searches for each feature, pointing coders to (a) languages with that feature, and (b) page #s in grammars
+   Advantages:
+   - Can search for the term simultaneously in English/French/German/etc.
+   - ...
+*** TODO Create regexes for lots more features
+*** TODO Figure out how to decide when we have a "match"
+    - # of hits / number of pages in grammar?
+    - *to-discuss* Harald's idea, where _instead of using regexes_, we do the following:
+      * Chunk grammars into paragraphs & do LSA on every paragraph;
+      * Compute LSA similarity of feature keywords to paragraphs, and show coders the most relevant _paragraphs_ (w/ location in text).
+
+** Automatically extract "keywords" from grammars, and add to BibTeX entries
+   - Possibly use Amazon-style "Statistically Improbable Phrases", but trained on *non-linguistic* texts.
+   - Find the intersection with keywords known to be useful for Grambank features.
+
+* History/sociology of descriptive terminology
+
+* Erich stuff (more advanced extraction of features)
+
+** Leave to Erich (but keep him in loop on what we're doing, as he/his students might build on our work)
