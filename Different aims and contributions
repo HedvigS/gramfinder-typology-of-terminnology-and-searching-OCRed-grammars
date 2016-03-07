@@ -1,8 +1,10 @@
 These different aims that we have noticed and thought might be valuable to share discussions on. This repos is not an effort to unify all these aims and publish together, rather this is a place for sharing discussions and code addressing these aims. Whatever papers or applications might come out, only those who have actively contributed will be listed as creators/authors. A helpful guide to what "contribution" entails can be found here: http://journals.plos.org/plosone/s/ethical-publishing-practice#loc-authorship
 
-Grambank is one of the projects that have an interst in this, Grambank is headed by Harald. The efforts in aiding coders (1a, 1b, 2b, 2c) is currently being referred to as "Gramfinder" and Siva is heading those efforts. There are also separate interests that concern (2a) and (3), there is a draft paper on these issues that is currently mainly being worked on by Harald, Siva, Hedvig and Mark. 
+Grambank is one of the projects that have an interst in this, Grambank is headed by Harald. The efforts in aiding coders (1a, 1b, 2b, 2c) is currently being referred to as "Gramfinder" and Siva is heading those efforts. The results of this will directly benefit Grambank and its coders, and if suitable those who have made valuable contributions could publish a paper on it.
 
-We are open to discussions with other people, but will only invite people to be listed co-authors or creators if they can fulfil the authorshop critiera. However, we see no harm in dicussing and sharing ideas in the meantime and thought that a repos like this might be valuable.
+There are also separate interests that concern (2a) and (3), there is a draft paper on these issues that is currently mainly being worked on by Harald, Siva, Hedvig and Mark. These intersect with Gramfinder, but are of less direct practical use to Grambank-coding itself as they would explore computers coding without comparing to a human and exploring terms not relevant to Grambank. The intent is to publish on this later on, either one paper on both (2a) and (3) or one on each. Only people that have made meaningful contributions to those papers would be listed as co-authors.
+
+We are open to discussions with other people, but will only invite people to be listed co-authors or creators if they can fulfil the authorshop critiera. However, we see no harm in dicussing and sharing ideas in the meantime and thought that a repos like this might be valuable. This is comparable to for example how people share praat-scripts here on GitHub.
 
 Aims:
 
