@@ -1,0 +1,25 @@
+These different aims that we have noticed and thought might be valuable to share discussions on. This repos is not an effort to unify all these aims and publish together, rather this is a place for sharing discussions and code addressing these aims. Whatever papers or applications might come out, only those who have actively contributed will be listed as creators/authors. A helpful guide to what "contribution" entails can be found here: http://journals.plos.org/plosone/s/ethical-publishing-practice#loc-authorship
+
+Grambank is one of the projects that have an intersted in this, Grambank is headed by Harald. The efforts in aiding coders (1a, 1b, 2b, 2c) is currently being referred to as "Gramfinder" and Siva is heading those efforts. There are also separate interests that concern (2a) and (3), there is a draft paper on these issues that is currently mainly being worked on by Harald, Siva, Hedvig and Mark. 
+
+We are open to discussions with other people, but will only invite people to be listed co-authors or creators if they can fulfil the authorshop critiera. However, we see no harm in dicussin and sharing ideas in the meantime and thought that a repos like this might be valuable.
+
+Aims:
+
+(1) Aiding coders of cross-linguistic databases by searching through grammars and extracting some information (especially for Grambank) 
+
+ 1a) help coders get an overview of what a specific language description contains ("did you miss that articles are handled in this document?")
+
+ 1b) rank language descriptions based on prescence of key words, lenght and year of publication ("I think you should read grammar x first")
+
+2) characterise each language based on all sources for that lgs (for this relative freq needs to be implemented, and multilingual searchers etc)
+
+ 2a) trigger values for features in grambank and compare to what humans coded for the same (what we did in the Melanesian paper). 
+
+ 2b) provide information based on all sources to the coder as possible assistance ("this language seems to have past tense"), based on results from (2a)
+
+2c) let coders via a web interface (behind password) to their own searchers in all languge descriptions for a language
+
+(3) investigating the nature, history, clusters and trends of linguistic descriptions and compare with  typological patterns
+
+4) extracting complex information from grammars, but not necessarily compare it to humans
