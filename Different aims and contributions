@@ -1,10 +1,10 @@
 These are different aims that we have noticed and thought might be valuable to share discussions on. This repos is not an effort to unify all these aims and publish everything together, rather this is a place for sharing discussions and code addressing these aims. Whatever papers or applications might come out, only those people who have actively contributed will be listed as creators/authors. A helpful guide to what "contribution" entails can be found here: http://journals.plos.org/plosone/s/ethical-publishing-practice#loc-authorship
 
-Grambank is one of the projects that have an interest in this, Grambank is headed by Harald Hammarström and is a part of Glottobank which is headed by Quentin Atkinson and Russell Gray. The efforts in aiding coders (1a, 1b, 2b, 2c) is currently being referred to as "Gramfinder" and Siva Kalyan is heading those efforts. The results of this will directly benefit Grambank and its coders, but can perhaps be applicable to other similar databases later as well. If it proves meaningful, those who have made valuable contributions could publish a paper on it. It will also invovle CLLD-websites, for which Robert and Sebastian would need to be invovled.
+Grambank is one of the projects that have an interest in this, Grambank is headed by Harald Hammarström and is a part of Glottobank which is headed by Quentin Atkinson and Russell Gray. The efforts in aiding coders (1a, 1b, 2b, 2c) is currently being referred to as "Gramfinder" and Siva Kalyan is heading those efforts. The results of this will directly benefit Grambank and its coders, but can perhaps be applicable to other similar databases later as well. If it proves meaningful, those who have made valuable contributions could publish a paper on it. It will also involve CLLD-websites, for which Robert and Sebastian would need to be involved.
 
 There are also separate interests that concern (2a) and (3), there is a draft paper on these issues that is currently mainly being worked on by Harald, Siva Kalyan, Hedvig Skirgård and Mark Ellison. These intersect with Gramfinder, but are of less direct practical use to Grambank-coding itself, as they would explore computers coding without comparing to a human and exploring terms not relevant to Grambank. The intent is to publish on this later on, either one paper on both (2a) and (3) or one on each. Only people that have made meaningful contributions to those papers and scripts would be listed as co-authors.
 
-We are open to discussions with other people, but will only invite people to be listed co-authors or creators if they can fulfil the authorshop critiera. However, we see no harm in dicussing and sharing ideas in the meantime with assocated people intersted in similar questions, and we thought that a repos like this might be valuable, instead of separating the Gramfinder part from the rest or including everything into Glottobank. The idea is to share scripts and discussions, not necessarily papers and resources. This is comparable to, for example, how people share praat-scripts here on GitHub. It's assumed that people will play fair, act responsibly and pay credit where credit is due.
+We are open to discussions with other people, but will only invite people to be listed co-authors or creators if they can fulfil the authorship criteria. However, we see no harm in discussing and sharing ideas in the meantime with associated people interested in similar questions, and we thought that a repos like this might be valuable, instead of separating the Gramfinder part from the rest or including everything into Glottobank. The idea is to share scripts and discussions, not necessarily papers and resources. This is comparable to, for example, how people share praat-scripts here on GitHub. It's assumed that people will play fair, act responsibly and pay credit where credit is due.
 
 Aims:
 
@@ -12,7 +12,7 @@ Aims:
 
  1a) help coders get an overview of what a specific language description contains ("did you miss that articles are handled in this document?")
 
- 1b) rank language descriptions based on prescence of key words, lenght and year of publication ("I think you should read grammar x first")
+ 1b) rank language descriptions based on presence of key words, length and year of publication ("I think you should read grammar x first")
 
 2) characterise each language based on all sources for that lgs (for this relative freq needs to be implemented, and multilingual searchers etc)
 
@@ -20,7 +20,7 @@ Aims:
 
  2b) provide information based on all sources to the coder as possible assistance ("this language seems to have past tense"), based on results from (2a)
 
-2c) let coders via a web interface (behind password) to their own searchers in all languge descriptions for a language
+2c) let coders via a web interface (behind password) to their own searchers in all language descriptions for a language
 
 (3) investigating the nature, history, clusters and trends of linguistic descriptions and compare with  typological patterns
 
